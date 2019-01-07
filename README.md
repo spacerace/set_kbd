@@ -1,6 +1,7 @@
 # SET_KBD.COM - a DOS keyboard layout chooser 
  
 This tool lets you choose from a list of available keyboard layouts and uses a keyboard-tool to set the layout. 
+
 It can be configured with a simple text file to use different keyboard tools and layouts. 
 
 This tool is very small and it's intention is to use it on boot floppies etc.
