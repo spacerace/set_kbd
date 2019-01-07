@@ -18,7 +18,7 @@ This folder contains two sample configurations for different keyboard tools:
 * `mkeyb.exe` from Tom Ehlert (`mkeyb.cfg`)
 * `keyb.com` from MS-DOS 6.22 (`mskeyb.cfg`)
 
-If you want to use any other keyboard tool, you must write your own cfg-file. If send it back to me, I will add it here. 
+If you want to use any other keyboard tool, you must write your own cfg-file. If you send it back to me, I will add it here. 
 The first line is the path to the keyboard tool. All other lines are list entries. An entry looks like this:
 ```
 GR;GR;German
